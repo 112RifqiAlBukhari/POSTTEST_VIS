@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\POSTTEST_VIS\\POSTTEST2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3A8FDCCD-5443-4B8F-9F6D-2D3362284651}|POSTTEST2\\POSTTEST2.vbproj|d:\\posttest_vis\\posttest2\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
-      "RelativeMoniker": "D:0:0:{3A8FDCCD-5443-4B8F-9F6D-2D3362284651}|POSTTEST2\\POSTTEST2.vbproj|solutionrelative:posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+      "AbsoluteMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|d:\\posttest_vis\\posttest2\\posttest2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|solutionrelative:posttest2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3A8FDCCD-5443-4B8F-9F6D-2D3362284651}|POSTTEST2\\POSTTEST2.vbproj|d:\\posttest_vis\\posttest2\\posttest2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
-      "RelativeMoniker": "D:0:0:{3A8FDCCD-5443-4B8F-9F6D-2D3362284651}|POSTTEST2\\POSTTEST2.vbproj|solutionrelative:posttest2\\module1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+      "AbsoluteMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|d:\\posttest_vis\\posttest2\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|solutionrelative:posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|d:\\posttest_vis\\posttest2\\posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A0CEF220-789E-956D-849E-D68B2FC55CDC}|POSTTEST2\\POSTTEST2.vbproj|solutionrelative:posttest2\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,19 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\POSTTEST2\\POSTTEST2\\Form1.vb",
+              "RelativeDocumentMoniker": "POSTTEST2\\Form1.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\POSTTEST2\\POSTTEST2\\Form1.vb",
+              "RelativeToolTip": "POSTTEST2\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-03-07T14:26:30.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Module1.vb",
               "DocumentMoniker": "D:\\POSTTEST_VIS\\POSTTEST2\\POSTTEST2\\Module1.vb",
               "RelativeDocumentMoniker": "POSTTEST2\\Module1.vb",
               "ToolTip": "D:\\POSTTEST_VIS\\POSTTEST2\\POSTTEST2\\Module1.vb",
               "RelativeToolTip": "POSTTEST2\\Module1.vb",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
               "WhenOpened": "2026-03-05T06:07:48.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\POSTTEST_VIS\\POSTTEST2\\POSTTEST2\\Form1.vb",
               "RelativeDocumentMoniker": "POSTTEST2\\Form1.vb",
