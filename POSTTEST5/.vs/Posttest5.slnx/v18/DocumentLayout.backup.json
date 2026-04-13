@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\POSTTEST_VIS\\Posttest5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\formdaftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\formdaftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\formdaftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\formdaftar.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|d:\\posttest_vis\\posttest5\\posttest5\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{6321011F-0543-B21F-49D3-3D092ECB0867}|Posttest5\\Posttest5.vbproj|solutionrelative:posttest5\\connection.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormDaftar.vb",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\FormDaftar.vb",
+              "RelativeDocumentMoniker": "Posttest5\\FormDaftar.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\FormDaftar.vb",
+              "RelativeToolTip": "Posttest5\\FormDaftar.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T10:22:52.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form1.vb",
+              "RelativeDocumentMoniker": "Posttest5\\Form1.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form1.vb*",
+              "RelativeToolTip": "Posttest5\\Form1.vb*",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAuwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T10:22:10.578Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form2.vb",
+              "RelativeDocumentMoniker": "Posttest5\\Form2.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form2.vb [Design]",
+              "RelativeToolTip": "Posttest5\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-12T08:14:26.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form1.vb",
+              "RelativeDocumentMoniker": "Posttest5\\Form1.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\Form1.vb [Design]*",
+              "RelativeToolTip": "Posttest5\\Form1.vb [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-12T06:01:39.318Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDaftar.vb [Design]",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\FormDaftar.vb",
+              "RelativeDocumentMoniker": "Posttest5\\FormDaftar.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\FormDaftar.vb [Design]",
+              "RelativeToolTip": "Posttest5\\FormDaftar.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-13T10:11:47.934Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "connection.vb",
+              "DocumentMoniker": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\connection.vb",
+              "RelativeDocumentMoniker": "Posttest5\\connection.vb",
+              "ToolTip": "D:\\POSTTEST_VIS\\Posttest5\\Posttest5\\connection.vb",
+              "RelativeToolTip": "Posttest5\\connection.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-04-12T09:07:47.383Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
