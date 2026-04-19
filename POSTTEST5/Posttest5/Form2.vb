@@ -146,6 +146,12 @@ Public Class Form2
         End Using
     End Sub
 
+    ' --- 9. TOMBOL KE HALAMAN TRANSAKSI (BARU) ---
+    Private Sub btnTransaksi_Click(sender As Object, e As EventArgs) Handles btnTransaksi.Click
+        Form3.Show()
+        Me.Hide()
+    End Sub
+
     Private Sub Label7_Click(sender As Object, e As EventArgs) Handles Label7.Click
 
     End Sub
